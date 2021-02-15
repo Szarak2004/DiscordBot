@@ -1,0 +1,19 @@
+!dzienna - Dzienna ilość zakarzeń
+!eval - Komenda do testowania
+!fakt - Losowy fakt
+!fizyka? - Czy fizyka jest fajna?
+!halo - Najlepszy mem
+!help - Informacje o komendach
+!ilośćwarn - Liczba warnów danej osoby
+!informacje - Komenda testowa
+!janina - JANINA
+!mapa - Generator losowej mapy
+!mem - Losowy mem z reddita
+!pokażwarn - Pokazywanie warnów danej osoby
+!purge - Usuwanie wielu wiadomości naraz
+!radek? - Hmmm
+!status - Status serwera Minecraft
+!tekstnabinarny - Konwerter tekst na binarny
+!usuńwarn - Usuwanie warnów
+!uwu - Uwu
+!warn - Warnowanie
